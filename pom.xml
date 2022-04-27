@@ -8,13 +8,15 @@
     <artifactId>docker</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <build>
-        <finalName>docker</finalName>>
-    </build>>
+
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
+
+    <build>
+        <finalName>docker</finalName>
+    </build>
 
 </project>
